@@ -5,13 +5,13 @@
   "logo": "https://telegramchannels.me/storage/media-logo/2001/dcgamebot.jpg",
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
-     "BOT_TOKEN": {5391152158:AAHH93REWcb-MdzyQM43qrA5SUDBri9F0-I
+     "BOT_TOKEN": {"5391152158:AAHH93REWcb-MdzyQM43qrA5SUDBri9F0-I" 
       "description": "@Botfather Den Oluşturduğunuz Botun Apisi"
     },
     "OWNER_API_ID": {13544181
       "description": "API_ID'niz https://my.telegram.org/apps dan ala bilirsiniz"
     },
-    "OWNER_API_HASH": {1cf5e591506286e82e89e98b2436ebb6
+    "OWNER_API_HASH": {"1cf5e591506286e82e89e98b2436ebb6" 
       "description": "API_HASH'iniz https://my.telegram.org/apps dan ala bilirsiniz"
     },
     "OWNER_ID": {5299230729
