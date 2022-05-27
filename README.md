@@ -47,6 +47,6 @@ async def _(client, message):
 # Credit
 Thanks for;
 
-[Akın](https://github.com/AkinYoungSoftware)
+[Akın](https://github.com/Kenan20222/dogrulukcesaret)
 
 [Dan](https://telegram.dog/haskell) [Pyrogram Library](https://github.com/pyrogram/pyrogram) Kütüphanesi için
